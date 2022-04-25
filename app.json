@@ -40,7 +40,7 @@
         },
         "MONGO_URL": {
             "description": "Get From Here. https://telegra.ph/How-To-get-Mongodb-URI-04-06",
-            "required": true
+            "required": false
         },
         "ARQ_API_URL": {
             "description": "For Music Downloading And Many More Things... Don't change this value",
@@ -67,7 +67,7 @@
         },
         "BASE_DB":{
             "description": "base mongo database (filters/welcome/notes/etc..)",
-            "required": true
+            "required": false
         },
         "FSUB_CHANNEL":{
             "description": "FSUB_CHANNEL channel id",
